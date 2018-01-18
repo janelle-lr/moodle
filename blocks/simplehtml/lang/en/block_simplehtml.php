@@ -1,0 +1,26 @@
+<?php
+$string['pluginname'] = 'Simple HTML block';
+$string['simplehtml'] = 'Simple HTML';
+$string['simplehtml:addinstance'] = 'Add a new simple HTML block';
+$string['simplehtml:myaddinstance'] = 'Add a new simple HTML block to the My Moodle page';
+$string['blockstring'] = 'Block Text';
+$string['blocktitle'] = 'Block Title';
+$string['headerconfig'] = 'Simple HTML Block configuration';
+$string['descconfig'] = 'Description configuration';
+$string['labelallowhtml'] = 'Enable HTML';
+$string['descallowhtml'] = 'Ticking this box will enable HTML';
+$string['addpage'] = 'Add Page';
+$string['edithtml'] = 'Edit HTML';
+$string['textfields'] = 'Text Fields';
+$string['defaulttext'] = 'Default Text';
+$string['simplehtmlsettings'] = 'Simple HTML Settings';
+$string['editpage'] = 'Edit Page';
+$string['pagetitle'] = 'Page Title';
+$string['displayedhtml'] = 'Displayed HTML';
+$string['picturefields'] = 'Picture Field';
+$string['displaypicture'] = 'Display Picture';
+$string['pictureselect'] = 'Picture Select';
+$string['red'] = 'Red';
+$string['blue'] = 'Blue';
+$string['green'] = 'Green';
+$string['picturedesc'] = 'Picture Description';
