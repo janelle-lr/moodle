@@ -24,3 +24,4 @@ $string['red'] = 'Red';
 $string['blue'] = 'Blue';
 $string['green'] = 'Green';
 $string['picturedesc'] = 'Picture Description';
+$string['displaydate'] = 'Display Date';
